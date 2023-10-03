@@ -1,8 +1,13 @@
 # Password Generator
-User friendly button to click to generate password
+
+User friendly password generator to create a random password. Just click on the button the start!
+
+![screenshot]("./images/passwordgenerator.png")
+
+[Password-Generator] 
 
 
-
-[Horiseon](https://thompsonholly.github.io/semantic-html/)
-
-![screenshot](assets/images/digital-marketing-meeting.jpg)
+Your README file should always include the name of the assignment, 
+a description of the work you did, 
+a representative screenshot of one of the pages, 
+and a link to the deployed work on Github Pages.
