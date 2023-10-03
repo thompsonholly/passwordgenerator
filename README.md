@@ -2,7 +2,7 @@
 
 User friendly password generator to create a random password. Just click on the button the start!
 
-![screenshot]("./images/passwordgenerator.png")
+![screenshot](./assets/images/passwordgenerator.png/images/passwordgenerator.png)
 
 [Password-Generator] 
 
